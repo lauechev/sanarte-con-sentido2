@@ -23,21 +23,21 @@
         "heading_yeFLKz": {
           "type": "heading",
           "settings": {
-            "heading": "Imagen con texto",
+            "heading": "Experiencias de sound healing",
             "heading_size": "h1"
           }
         },
         "text_rki8gR": {
           "type": "text",
           "settings": {
-            "text": "<p>Vincula un texto con una imagen para atraer la atención hacia tu producto, colección o artículo de blog seleccionados. Agrega detalles sobre disponibilidad y estilo, o incluso ofrece una reseña.</p>",
+            "text": "<p>Experiencias grupales o privadas de sound healing diseñadas para promover la regulación emocional, la conexión interna y el descanso profundo del sistema nervioso.</p><p>Estas sesiones integran sonido terapéutico, respiración consciente y presencia, y pueden adaptarse a contextos terapéuticos, eventos<br/>privados, hoteles y retiros.</p><p>Cada experiencia es diseñada con intención, cuidado y sensibilidad al espacio y a las personas que participan.</p>",
             "text_style": "body"
           }
         },
         "button_ziJtFy": {
           "type": "button",
           "settings": {
-            "button_label": "Etiqueta de botón",
+            "button_label": "Agenda tu experiencia",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -50,8 +50,9 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
+        "image": "shopify://shop_images/99365e06-987d-4aaf-8a31-2cccaaa47176.jpg",
         "height": "adapt",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "small",
         "layout": "image_first",
         "image_behavior": "none",
         "content_layout": "no-overlap",
