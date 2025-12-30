@@ -1,10 +1,51 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "rich_text_LUDWnw": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_AGcM9e": {
+          "type": "heading",
+          "settings": {
+            "heading": "Contacto",
+            "heading_size": "h1"
+          }
+        },
+        "text_bwM37q": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Si este espacio resuena contigo, escríbeme. Muchas veces sanar empieza por pedir ayuda.</p><p> Correo: sanarteconsentido@gmail.com<br/>Instagram: @sanarteconsentido</p><p> </p><p><strong>AVISO IMPORTANTE</strong></p><p>Los recursos ofrecidos en esta página no sustituyen la atención psicológica profesional. Si estás atravesando una crisis grave o tienes pensamientos de autolesión, busca ayuda profesional inmediata en tu país. </p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_AGcM9e",
+        "text_bwM37q"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "scheme-2217135a-89f0-405e-8a23-7c9dd95dc14b",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "form": {
@@ -20,6 +61,7 @@
   },
   "order": [
     "main",
+    "rich_text_LUDWnw",
     "form"
   ]
 }
