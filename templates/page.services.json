@@ -11,13 +11,154 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "image_with_text_XpdMdK": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_yeFLKz": {
+          "type": "heading",
+          "settings": {
+            "heading": "Imagen con texto",
+            "heading_size": "h1"
+          }
+        },
+        "text_rki8gR": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Vincula un texto con una imagen para atraer la atención hacia tu producto, colección o artículo de blog seleccionados. Agrega detalles sobre disponibilidad y estilo, o incluso ofrece una reseña.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_ziJtFy": {
+          "type": "button",
+          "settings": {
+            "button_label": "Etiqueta de botón",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_yeFLKz",
+        "text_rki8gR",
+        "button_ziJtFy"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_6wdwPa": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_9Xkqx8": {
+          "type": "heading",
+          "settings": {
+            "heading": "Imagen con texto",
+            "heading_size": "h1"
+          }
+        },
+        "text_dYUiyp": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Vincula un texto con una imagen para atraer la atención hacia tu producto, colección o artículo de blog seleccionados. Agrega detalles sobre disponibilidad y estilo, o incluso ofrece una reseña.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_z77L9m": {
+          "type": "button",
+          "settings": {
+            "button_label": "Etiqueta de botón",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_9Xkqx8",
+        "text_dYUiyp",
+        "button_z77L9m"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_bGmpJF": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_4Fp4tm": {
+          "type": "heading",
+          "settings": {
+            "heading": "Coméntanos sobre tu marca",
+            "heading_size": "h1"
+          }
+        },
+        "text_zHEJLQ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Comparte información sobre tu marca con los clientes. Describe un producto, comparte anuncios o da la bienvenida a los clientes a tu tienda.</p>"
+          }
+        },
+        "button_7RJVjp": {
+          "type": "button",
+          "settings": {
+            "button_label": "Etiqueta de botón",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_4Fp4tm",
+        "text_zHEJLQ",
+        "button_7RJVjp"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "image_with_text_XpdMdK",
+    "image_with_text_6wdwPa",
+    "rich_text_bGmpJF"
   ]
 }

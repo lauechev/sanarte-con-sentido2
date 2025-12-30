@@ -23,14 +23,14 @@
         "heading_gcBFxz": {
           "type": "heading",
           "settings": {
-            "heading": "Sound healing",
+            "heading": "Sobre mi",
             "heading_size": "h1"
           }
         },
         "text_mhzm9L": {
           "type": "text",
           "settings": {
-            "text": "<p>Vincula un texto con una imagen para atraer la atención hacia tu producto, colección o artículo de blog seleccionados. Agrega detalles sobre disponibilidad y estilo, o incluso ofrece una reseña.</p>",
+            "text": "<p>Soy Laura Trujillo, psicóloga, sound healer, guío procesos terapéuticos y experiencias de bienestar consciente.</p><p>Acompaño a personas y espacios que buscan bienestar profundo, integrando la psicología humanista con prácticas de conciencia, regulación emocional y experiencias de sound healing diseñadas para calmar el sistema nervioso, favorecer la introspección y crear estados de presencia y<br/>descanso profundo.</p><p>Creo profundamente que sanar no es “arreglarse”, sino aprender a sostenerse con mayor amabilidad, comprensión y sentido.</p><p>Mi trabajo se basa en la ética, el cuidado emocional y la creación de experiencias terapéuticas y sensoriales que honran la profundidad de cada proceso, ya sea en un espacio clínico, un encuentro grupal o un entorno de bienestar como hoteles y retiros.</p>",
             "text_style": "body"
           }
         },
