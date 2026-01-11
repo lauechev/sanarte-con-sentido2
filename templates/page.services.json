@@ -23,8 +23,8 @@
         "heading_yeFLKz": {
           "type": "heading",
           "settings": {
-            "heading": "Experiencias de sound healing",
-            "heading_size": "h1"
+            "heading": "<strong>Experiencias de sound healing</strong>",
+            "heading_size": "h2"
           }
         },
         "text_rki8gR": {
@@ -71,8 +71,8 @@
         "heading_9Xkqx8": {
           "type": "heading",
           "settings": {
-            "heading": "Imagen con texto",
-            "heading_size": "h1"
+            "heading": "<strong>Talleres y ceremonias</strong>",
+            "heading_size": "h2"
           }
         },
         "text_dYUiyp": {
@@ -118,14 +118,14 @@
         "heading_4Fp4tm": {
           "type": "heading",
           "settings": {
-            "heading": "Coméntanos sobre tu marca",
-            "heading_size": "h1"
+            "heading": "<strong>Psicoterapia individual</strong>",
+            "heading_size": "h2"
           }
         },
         "text_zHEJLQ": {
           "type": "text",
           "settings": {
-            "text": "<p>Comparte información sobre tu marca con los clientes. Describe un producto, comparte anuncios o da la bienvenida a los clientes a tu tienda.</p>"
+            "text": "<p>Un espacio seguro para explorar lo que sientes, comprender<br/>tus procesos internos y construir herramientas emocionales que te permitan<br/>habitar tu vida con mayor claridad, regulación y sostén.</p>"
           }
         },
         "button_7RJVjp": {
@@ -149,7 +149,7 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "",
+        "color_scheme": "scheme-2217135a-89f0-405e-8a23-7c9dd95dc14b",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52

@@ -46,7 +46,7 @@
       "settings": {
         "image": "shopify://shop_images/539de661-e584-47e7-9b07-c26f5114a906.jpg",
         "image_overlay_opacity": 20,
-        "image_height": "adapt",
+        "image_height": "small",
         "image_behavior": "none",
         "desktop_content_position": "middle-right",
         "desktop_content_alignment": "right",
@@ -75,8 +75,8 @@
         "content_alignment": "left",
         "color_scheme": "scheme-6a975ae2-5cdc-453c-b636-17b286612cca",
         "full_width": true,
-        "padding_top": 72,
-        "padding_bottom": 72
+        "padding_top": 100,
+        "padding_bottom": 100
       }
     },
     "featured_collection": {
