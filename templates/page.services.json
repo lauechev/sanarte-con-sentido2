@@ -78,15 +78,15 @@
         "text_dYUiyp": {
           "type": "text",
           "settings": {
-            "text": "<p>Vincula un texto con una imagen para atraer la atención hacia tu producto, colección o artículo de blog seleccionados. Agrega detalles sobre disponibilidad y estilo, o incluso ofrece una reseña.</p>",
+            "text": "<p>Encuentros diseñados para abordar temas emocionales específicos desde una mirada consciente, simbólica y terapéutica.</p><p>Ideales para celebraciones significativas, procesos de cierre, transiciones vitales, reconexión personal o experiencias de bienestar en entornos individuales, grupales o corporativos.</p>",
             "text_style": "body"
           }
         },
         "button_z77L9m": {
           "type": "button",
           "settings": {
-            "button_label": "Etiqueta de botón",
-            "button_link": "",
+            "button_label": "Conocer más",
+            "button_link": "shopify://pages/contact",
             "button_style_secondary": false
           }
         }
@@ -131,8 +131,8 @@
         "button_7RJVjp": {
           "type": "button",
           "settings": {
-            "button_label": "Etiqueta de botón",
-            "button_link": "",
+            "button_label": "Agenda tu sesión",
+            "button_link": "shopify://pages/contact",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -148,7 +148,7 @@
       "name": "t:sections.rich-text.presets.name",
       "settings": {
         "desktop_content_position": "center",
-        "content_alignment": "center",
+        "content_alignment": "left",
         "color_scheme": "scheme-2217135a-89f0-405e-8a23-7c9dd95dc14b",
         "full_width": true,
         "padding_top": 40,
