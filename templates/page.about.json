@@ -62,7 +62,7 @@
         "heading_fDQfwm": {
           "type": "heading",
           "settings": {
-            "heading": "¿Qué es sanarte con sentido?",
+            "heading": "<strong>¿Qué es sanarte con sentido?</strong>",
             "heading_size": "h2"
           }
         },
@@ -95,35 +95,43 @@
         "padding_bottom": 36
       }
     },
-    "rich_text_iJQKq3": {
-      "type": "rich-text",
+    "image_with_text_MrhHi4": {
+      "type": "image-with-text",
       "blocks": {
-        "heading_hBejbP": {
+        "heading_Ep6MXU": {
           "type": "heading",
           "settings": {
-            "heading": "Este espacio es para ti si:",
+            "heading": "<strong>Este espacio es para ti si:</strong>",
             "heading_size": "h2"
           }
         },
-        "text_3PT3cm": {
+        "text_RUEVzh": {
           "type": "text",
           "settings": {
-            "text": "<p>• Te sientes desconectado o emocionalmente agotado<br/>• Estás en un proceso terapéutico o estás considerando iniciarlo<br/>• Buscas recursos y experiencias que acompañen, no que minimicen lo que sientes<br/>• Quieres comprenderte mejor desde un lugar más amable y consciente</p>"
+            "text": "<p>• Te sientes desconectado o emocionalmente agotado<br/>• Estás en un proceso terapéutico o estás considerando iniciarlo<br/>• Buscas recursos y experiencias que acompañen, no que minimicen lo que sientes<br/>• Quieres comprenderte mejor desde un lugar más amable y consciente</p>",
+            "text_style": "body"
           }
         }
       },
       "block_order": [
-        "heading_hBejbP",
-        "text_3PT3cm"
+        "heading_Ep6MXU",
+        "text_RUEVzh"
       ],
-      "name": "t:sections.rich-text.presets.name",
+      "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 72,
-        "padding_bottom": 72
+        "image": "shopify://shop_images/4941e1e7-db3f-4125-b4da-d37cb9813a9e.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "scheme-2217135a-89f0-405e-8a23-7c9dd95dc14b",
+        "color_scheme": "scheme-2217135a-89f0-405e-8a23-7c9dd95dc14b",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
@@ -131,6 +139,6 @@
     "main",
     "image_with_text_9c78zX",
     "image_with_text_zWxFaR",
-    "rich_text_iJQKq3"
+    "image_with_text_MrhHi4"
   ]
 }
