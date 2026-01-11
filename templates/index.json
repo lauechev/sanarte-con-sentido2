@@ -30,7 +30,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Conoce el proyecto",
-            "button_link_1": "shopify://collections/all",
+            "button_link_1": "shopify://pages/sobre-mi",
             "button_style_secondary_1": true,
             "button_label_2": "Explora los recursos digitales",
             "button_link_2": "shopify://collections/all",
@@ -75,8 +75,8 @@
         "content_alignment": "left",
         "color_scheme": "scheme-6a975ae2-5cdc-453c-b636-17b286612cca",
         "full_width": true,
-        "padding_top": 100,
-        "padding_bottom": 100
+        "padding_top": 76,
+        "padding_bottom": 76
       }
     },
     "featured_collection": {
