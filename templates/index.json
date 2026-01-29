@@ -105,10 +105,10 @@
             "link": ""
           }
         },
-        "column_dt3h6p": {
+        "column_Vy4bJh": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/IMG_0126.jpg",
+            "image": "shopify://shop_images/IMG_0127.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -119,7 +119,7 @@
       "block_order": [
         "column_xDGYm6",
         "column_LUHcYe",
-        "column_dt3h6p"
+        "column_Vy4bJh"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
