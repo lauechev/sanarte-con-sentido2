@@ -32,7 +32,7 @@
             "button_label_1": "Conoce el proyecto",
             "button_link_1": "shopify://pages/sobre-mi",
             "button_style_secondary_1": true,
-            "button_label_2": "Explora los recursos digitales",
+            "button_label_2": "Explora los recursos",
             "button_link_2": "shopify://collections/all",
             "button_style_secondary_2": true
           }
@@ -43,18 +43,21 @@
         "text",
         "button"
       ],
+      "custom_css": [
+        "@media screen and (max-width: 749px) {h2 {font-size: 20px; } .button {width: 70px; font-size: 10px; }}"
+      ],
       "settings": {
-        "image": "shopify://shop_images/539de661-e584-47e7-9b07-c26f5114a906.jpg",
+        "image": "shopify://shop_images/IMG_0151.jpg",
         "image_overlay_opacity": 20,
-        "image_height": "adapt",
+        "image_height": "medium",
         "image_behavior": "none",
-        "desktop_content_position": "middle-right",
-        "desktop_content_alignment": "right",
+        "desktop_content_position": "top-left",
+        "desktop_content_alignment": "left",
         "show_text_box": false,
-        "color_scheme": "scheme-3",
-        "stack_images_on_mobile": false,
-        "mobile_content_alignment": "center",
-        "show_text_below": false
+        "color_scheme": "scheme-4",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "left",
+        "show_text_below": true
       }
     },
     "rich_text": {
@@ -77,6 +80,63 @@
         "full_width": true,
         "padding_top": 76,
         "padding_bottom": 76
+      }
+    },
+    "multicolumn_B9YNHM": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_xDGYm6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_0143.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_LUHcYe": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_0159.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_dt3h6p": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_0126.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_xDGYm6",
+        "column_LUHcYe",
+        "column_dt3h6p"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "color_scheme": "scheme-4",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 28,
+        "padding_bottom": 28
       }
     },
     "featured_collection": {
@@ -111,6 +171,7 @@
   "order": [
     "image_banner",
     "rich_text",
+    "multicolumn_B9YNHM",
     "featured_collection"
   ]
 }
