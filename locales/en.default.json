@@ -78,7 +78,7 @@
     "unit_price_separator": "per",
     "vendor": "Vendor:",
     "error": "Error",
-    "refresh_page": "Choosing a selection results in a full page refresh.",
+    "refresh_page": "Choosing an option results in a full page refresh.",
     "link_messages": {
       "new_window": "Opens in a new window.",
       "external": "Opens external website."
