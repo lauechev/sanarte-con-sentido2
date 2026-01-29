@@ -126,7 +126,7 @@
         "text_KG9qUr": {
           "type": "text",
           "settings": {
-            "text": "<p>Un espacio seguro para explorar lo que sientes, comprender<br/>tus procesos internos y construir herramientas emocionales que te permitan<br/>habitar tu vida con mayor claridad, regulación y sostén.</p>",
+            "text": "<p>Un espacio seguro para explorar lo que sientes, comprender<br/>tus procesos internos y construir herramientas emocionales que te permitan habitar tu vida con mayor claridad, regulación y sostén.</p>",
             "text_style": "body"
           }
         },
@@ -146,7 +146,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/IMG_0164.jpg",
+        "image": "shopify://shop_images/IMG_0167.jpg",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "image_first",
