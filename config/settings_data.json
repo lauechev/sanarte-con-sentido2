@@ -9,9 +9,9 @@
  */
 {
   "current": {
-    "logo": "shopify://shop_images/Transformative_wellness_experiences_2.png",
-    "logo_width": 140,
-    "favicon": "shopify://shop_images/Screenshot_2025-12-26_at_6.10.59_PM.png",
+    "logo": "shopify://shop_images/crema-sinfondo5.png",
+    "logo_width": 90,
+    "favicon": "shopify://shop_images/logo-terracota5.png",
     "type_header_font": "shippori_mincho_n4",
     "heading_scale": 100,
     "type_body_font": "manrope_n4",
@@ -180,9 +180,9 @@
       },
       "scheme-4": {
         "settings": {
-          "background": "#4e3d32",
+          "background": "#892B1B",
           "background_gradient": "",
-          "text": "#ffffff",
+          "text": "#FFFFFF",
           "button": "#ffffff",
           "button_label": "#121212",
           "secondary_button_label": "#ffffff",
@@ -202,11 +202,11 @@
       },
       "scheme-6a975ae2-5cdc-453c-b636-17b286612cca": {
         "settings": {
-          "background": "#f6f4eb",
+          "background": "#EDE7DA",
           "background_gradient": "",
-          "text": "#56453a",
-          "button": "#a0887a",
-          "button_label": "#ffffff",
+          "text": "#56453A",
+          "button": "#892B1B",
+          "button_label": "#E1C694",
           "secondary_button_label": "#121212",
           "shadow": "#121212"
         }
@@ -216,7 +216,18 @@
           "background": "#ffffff",
           "background_gradient": "",
           "text": "#56453a",
-          "button": "#a0887a",
+          "button": "#E1C694",
+          "button_label": "#892B1B",
+          "secondary_button_label": "#121212",
+          "shadow": "#121212"
+        }
+      },
+      "scheme-8fce669c-a3b2-44c9-8ef2-3863baadb648": {
+        "settings": {
+          "background": "#ffffff",
+          "background_gradient": "",
+          "text": "#121212",
+          "button": "#121212",
           "button_label": "#ffffff",
           "secondary_button_label": "#121212",
           "shadow": "#121212"
