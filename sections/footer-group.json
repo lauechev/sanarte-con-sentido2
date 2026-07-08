@@ -13,6 +13,19 @@
   "sections": {
     "footer": {
       "type": "footer",
+      "blocks": {
+        "image_N3qRFx": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/crema-sinfondo2.png",
+            "image_width": 100,
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_N3qRFx"
+      ],
       "settings": {
         "color_scheme": "scheme-4",
         "newsletter_enable": true,

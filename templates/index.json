@@ -16,7 +16,7 @@
           "type": "heading",
           "settings": {
             "heading": "Sanarte con Sentido",
-            "heading_size": "h0"
+            "heading_size": "h1"
           }
         },
         "text": {
@@ -31,10 +31,10 @@
           "settings": {
             "button_label_1": "Conoce el proyecto",
             "button_link_1": "shopify://pages/sobre-mi",
-            "button_style_secondary_1": true,
+            "button_style_secondary_1": false,
             "button_label_2": "Explora los recursos",
             "button_link_2": "shopify://collections/all",
-            "button_style_secondary_2": true
+            "button_style_secondary_2": false
           }
         }
       },
