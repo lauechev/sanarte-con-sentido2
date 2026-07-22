@@ -106,9 +106,9 @@
     "sale_badge_color_scheme": "scheme-5",
     "sold_out_badge_color_scheme": "scheme-3",
     "social_facebook_link": "",
-    "social_instagram_link": "https://www.instagram.com/sanarteconsentido?igsh=am1od2gweXJnaXNq&utm_source=qr",
+    "social_instagram_link": "https://www.instagram.com/orbita.wellness?igsh=am1od2gweXJnaXNq&utm_source=qr",
     "social_youtube_link": "",
-    "social_tiktok_link": "https://www.tiktok.com/@psiclauratrujillo?_r=1&_t=ZS-93P2ryPc87U",
+    "social_tiktok_link": "www.tiktok.com/@orbita.wellness",
     "social_twitter_link": "",
     "social_snapchat_link": "",
     "social_pinterest_link": "",
@@ -180,12 +180,12 @@
       },
       "scheme-4": {
         "settings": {
-          "background": "#892B1B",
+          "background": "#892b1b",
           "background_gradient": "",
-          "text": "#EDE7DA",
-          "button": "#EDE7DA",
-          "button_label": "#892B1B",
-          "secondary_button_label": "#EDE7DA",
+          "text": "#ede7da",
+          "button": "#ede7da",
+          "button_label": "#892b1b",
+          "secondary_button_label": "#ede7da",
           "shadow": "#121212"
         }
       },
@@ -202,11 +202,11 @@
       },
       "scheme-6a975ae2-5cdc-453c-b636-17b286612cca": {
         "settings": {
-          "background": "#EDE7DA",
+          "background": "#ede7da",
           "background_gradient": "",
-          "text": "#56453A",
-          "button": "#892B1B",
-          "button_label": "#EDE7DA",
+          "text": "#56453a",
+          "button": "#892b1b",
+          "button_label": "#ede7da",
           "secondary_button_label": "#121212",
           "shadow": "#121212"
         }
@@ -216,8 +216,8 @@
           "background": "#ffffff",
           "background_gradient": "",
           "text": "#56453a",
-          "button": "#E1C694",
-          "button_label": "#892B1B",
+          "button": "#e1c694",
+          "button_label": "#892b1b",
           "secondary_button_label": "#121212",
           "shadow": "#121212"
         }
